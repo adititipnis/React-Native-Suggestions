@@ -1,0 +1,35 @@
+{
+  "name": "react-native-autocomplete",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adititipnis/React-Native-Autocomplete.gits"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "react native",
+    "mobile",
+    "ios",
+    "android",
+    "ui",
+    "autocomplete",
+    "input"
+  ],
+  "author": "Aditi Tipnis",
+  "license": "ISC",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.56.0"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.6.3",
+    "react": "^16.10.2"
+  }
+}
